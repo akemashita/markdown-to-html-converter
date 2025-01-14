@@ -10,9 +10,10 @@
 ## 使用方法
 
 以下のコマンドを実行してください：
-"""
+
+```
 python3 file_converter.py markdown <input_filepath> <output_filepath>
-"""
+```
 
 ## 引数説明
 <`input_filepath`>: 入力となるMarkdownファイルのパス
